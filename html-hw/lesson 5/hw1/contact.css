@@ -1,0 +1,58 @@
+body {
+    background-image: url("forest.jpg");
+    background-size: cover;
+}
+
+.active {
+    color: dimgrey;
+}
+
+.contact-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: "HoloLens MDL2 Assets";
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 150px;
+    border-radius: 30%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    margin: 10px 0;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.social-media ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-media li {
+    display: inline;
+    margin: 0 10px;
+}
