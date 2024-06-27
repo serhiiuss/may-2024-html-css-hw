@@ -1,0 +1,56 @@
+* {
+    background-color: lightyellow;
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.color-block {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.color-block {
+    color: white;
+}
+
+#color1 {
+    background-color: black;
+
+}
+#color2 {
+    background-color: red;
+}
+#color3 {
+    background-color: green;
+}
+#color4 {
+    background-color: blue;
+}
+#color5 {
+    background-color: fuchsia;
+}
+#color6 {
+    background-color: white;
+    color: black;
+}
+#color7 {
+    background-color: yellow;
+    color: black;
+}
+#color8 {
+    background-color: Purple;
+}
+#color9 {
+    background-color: maroon;
+}
+#color10 {
+    background-color: olive;
+}
