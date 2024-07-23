@@ -15,7 +15,7 @@ body {
 
 .container {
     color: white;
-    font-family: Inter;
+    font-family: 'Inter', sans-serif;
     width: 70vw;
     padding: 80px 110px;
     display: flex;
