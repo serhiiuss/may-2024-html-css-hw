@@ -1,0 +1,18 @@
+@media screen  and (max-width: 768px) {
+    .container {
+        width: 90vw;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    .container > p {
+        font-size: 20px;
+    }
+
+    button {
+        width: 125px;
+    }
+
+}
